@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Shrik2404
-- 👀 I’m interested in Data Science and Data analytics in Motorsports
-- 🌱 I’m currently learning Mechanical Engineering
-- 💞️ I’m looking to collaborate on Data Science used in Motorsports
+- 👀 I’m interested in Data Science and Data analytics
+- 🌱 I’m currently pursuing Master of Science in Data Analytics at George Mason University.
+- 💞️ I’m looking to collaborate on Data Science.
 - 📫 How to reach me - atharva.shrikhande4@gmail.com
 
 <!---
